@@ -43,4 +43,4 @@ This repository includes the following eggs:
 3. **Configure the environment variables** as needed (e.g., Git repo, main file, additional packages).
 4. **Deploy your server** and enjoy!
 
-For detailed instructions, see the [Pterodactyl documentation](https://pterodactyl.io/docs/).
+For detailed instructions, see the [Pterodactyl documentation](https://pterodactyl.io/project/introduction.html).
